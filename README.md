@@ -1,0 +1,2 @@
+# SeasonalTrendLoess.jl
+STL decomposition
